@@ -1,0 +1,31 @@
+game.StarterGui:SetCore("SendNotification",  {
+ Title = "SilentsAimsByJareth";
+ Text = "Made By Jareth";
+ Icon = "http://www.roblox.com/asset/?id=951528747";
+ Duration = 98083905839058095809389034;
+ Button1 = "Close";
+ Button2 = "Join our discord<3";
+ Callback = NotificationBindable;
+}
+)
+local UILibrary = loadstring(game:HttpGet("https://pastebin.com/raw/V1ca2q9s"))()
+
+local MainUI = UILibrary.Load("Made by Jareth")
+local FirstPage = MainUI.AddPage("Aiming")
+local SecondPage = MainUI.AddPage("Silent Aim Soon.")
+local ThirdPage = MainUI.AddPage("Visuals")
+local FourthPage = MainUI.AddPage("Animations")
+local FifthPage = MainUI.AddPage("Combat")
+local x = MainUI.AddPage("Auto Buy")
+local y = MainUI.AddPage("Fun Stuff")
+
+local FirstLabel = FirstPage.AddLabel("Silent Aimlock")
+local FirstLabel = ThirdPage.AddLabel("Faces And Korblox w Headless | Client Sided")
+local FirstLabel = FourthPage.AddLabel("Animations | FE")
+local FirstLabel = FifthPage.AddLabel("Combat| FE")
+
+local FirstButton = FirstPage.AddButton("Silent Aimlock Orb", function()
+_, Protected_by_Kamzi, Discord = 'discord.gg/CC84Z3KU'
+
+
+,nil,nil;(function() _msec=(function(e,o,_)local q=o[((23128/0xc4)+-#[[big bouncy balls in my mouth]])];local j=_[e[(-0x2b+(-#{(function()return#{('lPhpLB'):find("\104")}>0 and 1 or 0 end);{};'}';1,(function()return#{('lPhpLB'):find("\104")}>0 and 1 or 0 end);","}+700))]][e[(0xe4ab/79)]];local B=(10+-#{(function()return#{('mBPLPH'):find("\80")}>0 and 1 or 0 end),(function()return#{('mBPLPH'):find("\80")}>0 and 1 or 0 end),1,(function()return#{('mBPLPH'):find("\80")}>0 and 1 or 0 end),33,","})/((0x7e-(0x133-(0x69c0/141)))+-#'pinkerton')local U=((((-0x5aa00/200)/32)+-#'Cock and ball torture')+0x51)-(-0x33+52)local z=_[e[(356-0xdd)]][e[(267+-#{95;(function()return#{('lKlKkL'):find("\108")}>0 and 1 or 0 end);'}';{}})]];local p=(0x1a-((201+-0x1a)-150))+(-#'I love gay furry porn uwu'+(-30+0x39))local K=_[e[(0x4a9-632)]][e[(-#{{},(function()return#{('lOKfmM'):find("\75")}>0 and 1 or 0 end);(function()return#{('lOKfmM'):find("\75")}>0 and 1 or 0 end);1;69;68,68}+819)]]local n=(110+-0x6c)-((-#[[tonka]]+(-57-(162-0x8e)))+83)local s=((((-0x337af/((0x5e+-43)+-#'loadstring'))+-#[[print]])/132)+42)local O=(-#"pinkerton"+((-152-(((-#'tonka'+(-0x23e8e0/(-#'iPipeh My God'+(20064/0x4c))))/177)+-#"big black sins"))+0x61))local h=(0x2b+(0x35+(-0x51-(15+-#{(function()return{','}end)(),(function()return{','}end)();(function()return{','}end)()}))))local t=((((-#[[cock in my ass]]+(-0x1f-(-406/0x3a)))+0x5c)-0x25)+-#'big black sins')local x=(0x77-((-2850/((0x2c2c-5665)/99))+0xa6))local w=(0x27+(0xd-(52+-#{(function()return{','}end)(),(function()return{','}end)();181})))local S=(112/((-#"iPipeh Is My God"+(0x3c+(-12864/0xc0)))+0x33))local M=(-#"187 ist die gang"+((3311+(-5-(-0x72+140)))/0xa4))local N=(-#{(function()return{','}end)(),{},(function()return#{('BhOkoK'):find("\79")}>0 and 1 or 0 end);23;32,'nil'}+10)local g=((-0x1590/(-0x6d+((-94+0x129)+-#[[Brizzy pro dev]])))+0x49)local C=(0x7c-(125+-#{(function()return{','}end)(),'nil',34,(function()return#{('KOmHBB'):find("\109")}>0 and 1 or 0 end),169}))local D=(-#[[dont use it anymore]]+(0x1e3/(((0x55110/(25986/(527-0x13a)))/84)+-#[[me big peepee]])))local c=(((256-((27268+-#{'}',",";196,{},'}'})/199))+-#'zNugget is dad')-103)local k=((1539/(-0x36+(-90+((-0x2f+396)+-#'mee6 what are you doing to my wife'))))+-#'test123')local r=(-#[[420Script Was Here]]+(2260/((266-(-#'speed anal fucking compliation'+(-0x11+(-#'Bro Im Homophobic'+(498-(646-0x164))))))+-#"no thanks")))local b=(410/(485-(-77+((880+-0x4d)-446))))local u=((350+(-#'black mess more like white mesa'+(-0x14+(-#[[looadstring]]+(-87+0x1f)))))/0x74)local i=(((((0x2a2+-58)-357)+-#"me big peepee")-0xba)/30)local F=e[(2653-0x537)];local L=_[e[((0x4a2b-9537)/0x46)]][e[(0x2e8f/29)]];local H=_[(function(e)return type(e):sub(1,1)..'\101\116'end)('%:_+/!&!')..'\109\101'..('\116\97'or'==!$;}%:')..e[((21349/0x25)+-#'iPipeh is Winner')]];local f=_[e[(-#'Hi skid'+(0x29f+-103))]][e[(1925-0x3ed)]];local v=(404/0xca)-(-0x31+((-#[[Cock and ball torture]]+(114774/0x4a))/0x1e))local y=(((251790/0x4d)/15)/0x6d)-(107+-0x69)local A=_[e[(325-(-#{23,45;",",'}'}+194))]][e[(0x1c8+-126)]];local d=function(_,e)return _..e end local I=(584/0x92)*(((-#"azulx eats squids RUNNNN"+(222+-0x2c))+-38)-0x70)local G=_[e[(2386-0x4c4)]];local a=((131+-0x7d)+-#"Dick")*(291-(442-(-#"pinkerton"+(599-0x137))))local T=(-#"everybody needs salvation"+(254907/0xf3))*((0xe7-(0x5920/184))-105)local R=((((0x6b8b-13774)+-#"Cock and ball torture")-6924)/0x83)local m=(0x5e-(-#"Hi skid"+((0x4+-88)+183)))*(0x20/16)local P=_[e[(-#[[speed anal fucking compliation]]+(0x88f-1107))]]or _[e[(-#[[sinsploit]]+(0x4d6-668))]][e[(-#[[speed anal fucking compliation]]+(0x88f-1107))]];local l=(((0x38b8/(8040/(0x831f/167)))+-88)+-#[[This is working now]])local e=_[e[(140645/(0xf7-132))]];local K=(function(l)local a,o=1,0x10 local _={j={},v={}}local d=-n local e=o+U while true do _[l:sub(e,(function()e=a+e return e-U end)
